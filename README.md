@@ -12,3 +12,12 @@
 
 • It can be integrated with Maven, Jenkins & Docker to achieve Continuous Testing.
 
+### But there surely has to be shortcomings right?
+
+• We can use Selenium only to test web applications. We cannot test desktop applications or any other software.
+
+• There is no guaranteed support available for Selenium. We need to leverage on the available customer communities.
+
+• It is not possible to perform testing on images. We need to integrate Selenium with Sikuli for image based testing.
+
+• There is no native reporting facility. But we can overcome that issue by integrating it with frameworks like TestNG or JUnit.
