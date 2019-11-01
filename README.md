@@ -21,4 +21,6 @@
 • It is not possible to perform testing on images. We need to integrate Selenium with Sikuli for image based testing.
 
 • There is no native reporting facility. But we can overcome that issue by integrating it with frameworks like TestNG or JUnit.
-Download Chrome Driver https://chromedriver.storage.googleapis.com/index.html?path=78.0.3904.70/
+Download Chrome Driver 
+• https://chromedriver.storage.googleapis.com/index.html?path=78.0.3904.70/
+https://www.seleniumhq.org/download/
