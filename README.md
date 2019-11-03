@@ -23,4 +23,4 @@
 • There is no native reporting facility. But we can overcome that issue by integrating it with frameworks like TestNG or JUnit.
 Download Chrome Driver 
 • https://chromedriver.storage.googleapis.com/index.html?path=78.0.3904.70/
-https://www.seleniumhq.org/download/
+. https://www.seleniumhq.org/download/
