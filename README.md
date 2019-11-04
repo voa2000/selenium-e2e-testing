@@ -21,6 +21,7 @@ This increasingly powerful set of tools
 is, as of now, essentially one fully
 coordinated test framework.
 
+“Selenium automates browsers. That's it!” - SeleniumHQ
 
 • Test scripts can be written in any of these programming languages: Java, Python, C#, PHP, Ruby, Perl & .Net.
 
