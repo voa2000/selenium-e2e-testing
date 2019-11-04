@@ -42,6 +42,18 @@ coordinated test framework.
 • It is not possible to perform testing on images. We need to integrate Selenium with Sikuli for image based testing.
 
 • There is no native reporting facility. But we can overcome that issue by integrating it with frameworks like TestNG or JUnit.
+
+It’s really that simple. Obviously, in practice, there’s a little more to it than that, and we’ll touch on some of
+the issues and quirks related to making good use of Selenium. However, the bottom line is that Selenium is
+a set of tools that allow you automate web testing. It has evolved a bit over the years; as of 2018, there are
+3 main components that comprise the Selenium platform.
+1) Selenium IDE - Firefox/Chrome extensions that allow recording and playback of user actions
+2) WebDriver (aka Selenium 2.0) - an API that allows direct interaction with browsers, offering
+ wider browser support and more complex browser interactions (WebDriver basically supplanted
+ Selenium Remote Control by expanding and improving on it in many ways)
+3) Selenium Grid - a tool which allows spreading tests over multiple physical or virtual machines,
+ allowing for parallel testing and scaling.
+ 
 Download Chrome Driver 
 • https://chromedriver.storage.googleapis.com/index.html?path=78.0.3904.70/
 
