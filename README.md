@@ -59,7 +59,7 @@ Download Chrome Driver
 
 .° https://www.seleniumhq.org/download/
 
-#WebDriver.IO
+# WebDriver.IO
 
 WebDriver.IO is the leading WebDriver binding for Node.JS. The framework basically
 sends requests to the Selenium server via the WebDriver protocol and manages the
