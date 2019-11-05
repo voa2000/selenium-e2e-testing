@@ -76,4 +76,6 @@ without using complex xPath selectors.
 The WDIO framework is easily integrated to many tools, therefore, during the config file setup,
 test automation engineers, can specify their tool stack (Cucumber, Mocha, Jasmine), local vs. cloud
 Selenium grid and more.
-# https://martinfowler.com/bliki/PageObject.html
+### https://martinfowler.com/bliki/PageObject.html
+# Selenium Documentation
+https://selenium.dev/selenium/docs/api/javascript/
