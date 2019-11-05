@@ -78,4 +78,5 @@ test automation engineers, can specify their tool stack (Cucumber, Mocha, Jasmin
 Selenium grid and more.
 ### https://martinfowler.com/bliki/PageObject.html
 # Selenium Documentation
-https://selenium.dev/selenium/docs/api/javascript/
+1. https://selenium.dev/selenium/docs/api/javascript/
+2. https://www.toolsqa.com/selenium-webdriver/factory-design-principle-in-frameworks/
