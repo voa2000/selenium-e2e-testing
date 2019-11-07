@@ -77,6 +77,7 @@ The WDIO framework is easily integrated to many tools, therefore, during the con
 test automation engineers, can specify their tool stack (Cucumber, Mocha, Jasmine), local vs. cloud
 Selenium grid and more.
 ### https://martinfowler.com/bliki/PageObject.html
+
 # Selenium Documentation
 1. https://selenium.dev/selenium/docs/api/javascript/
 2. https://www.toolsqa.com/selenium-webdriver/factory-design-principle-in-frameworks/
