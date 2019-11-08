@@ -57,7 +57,7 @@ a set of tools that allow you automate web testing. It has evolved a bit over th
 Download Chrome Driver 
 • https://chromedriver.storage.googleapis.com/index.html?path=78.0.3904.70/
 
-.° https://www.seleniumhq.org/download/
+. https://www.seleniumhq.org/download/
 
 # WebDriver.IO
 
