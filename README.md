@@ -63,16 +63,19 @@ Download Chrome Driver
 
 WebDriver.IO is the leading WebDriver binding for Node.JS. The framework basically
 sends requests to the Selenium server via the WebDriver protocol and manages the
-responses. The requests are wrapped in useful commands for ease of development,
+responses. 
+The requests are wrapped in useful commands for ease of development,
 re-use for multiple test scenarios of your web site and more.
 The integrated test runner let you write asynchronous commands in a synchronous
 way so that you don’t need to care about how to handle a Promise to avoid racing
 conditions. Additionally, it takes away all the cumbersome setup work and manages the
 Selenium session for you.
+
 Working with elements on a page is very easy due to its synchronous nature. When fetching or
 looping over elements you can use just native JavaScript functions. With the $ and $$functions
 WebdriverIO provides useful shortcuts which can also be chained to move deeper in the DOM tree
 without using complex xPath selectors.
+
 The WDIO framework is easily integrated to many tools, therefore, during the config file setup,
 test automation engineers, can specify their tool stack (Cucumber, Mocha, Jasmine), local vs. cloud
 Selenium grid and more.
